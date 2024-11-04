@@ -1,2 +1,2 @@
 # tests/__init__.py
-"""Module d'initialisation pour le package tests."""
+"""Initialization module for the tests package."""

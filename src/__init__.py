@@ -1,2 +1,2 @@
 # src/__init__.py
-"""Module d'initialisation pour le package src."""
+"""Initialization module for the src package."""
