@@ -1,0 +1,10 @@
+[tool.pyright]
+exclude = ["**/node_modules",
+    "**/__pycache__",
+]
+strict = ["src", "."]
+venvPath = "."
+venv = "venv"
+
+[tool.black]
+line-length = 150
